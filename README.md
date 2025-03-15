@@ -5,7 +5,7 @@
 ![Jupyter Notebook](https://img.shields.io/badge/Notebook-Jupyter-informational?style=for-the-badge&logo=jupyter)  
 
 ## 📌 Project Overview  
-This project aims to **predict the selling price of used cars** based on various features such as the car’s **age, kilometers driven, fuel type, transmission, and number of previous owners**. By using **Machine Learning models**, we can help car buyers and sellers make informed pricing decisions.  
+This project aims to **predict the selling price of used cars** based on various features such as the car’s **age, kilometers driven, fuel type, transmission, and number of previous owners**. By using **Machine Learning models**, we can help car buyers and sellers make informed pricing decisions. 
 
 🚀 **Key Features:**  
 ✔️ Data Preprocessing (Handling categorical & numerical data)  
